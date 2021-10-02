@@ -7,7 +7,7 @@ void setup()
 void loop()
 {
     x = digitalRead(2);
-    if (x == HIGH
+    if (x == HIGH)
 	{
 		digitalWrite(13,HIGH);
     }
