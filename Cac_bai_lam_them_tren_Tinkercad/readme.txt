@@ -9,7 +9,10 @@ Họ và tên: Nguyễn Văn Hải Long
 Mô tả:
 + Khi gạt công tắc sang trái đèn số 1 sẽ sáng, đèn số 2 còn lại sẽ tắt
 + Khi gạt công tắc sáng phải thì ngược lại.
-
 2. LED 7 đoạn đếm thời gian dạng Cathode
-
 3. 10 LED sáng theo thứ tự
+4.Điều khiển 1 động cơ
+5.Điều khiển tăng/giảm tốc độ Motor bằng chiết áp
+6.Máy tính đơn giản sử dụng LCD và Keypad
+7.Điều khiển đèn bằng Remote
+8.
